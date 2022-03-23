@@ -1,1 +1,1 @@
-# angular_2_curso
+# Curso Angular Alura - Projeto Gatitobook
